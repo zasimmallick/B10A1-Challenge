@@ -101,3 +101,70 @@ body {
     font-size: 1em;
     margin-bottom: 40px;
 }
+.targets {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.targets h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.targets p {
+    font-size: 1em;
+    margin-bottom: 40px;
+}
+
+.target-card {
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+}
+
+.target-card img {
+    max-width: 100px;
+    margin-bottom: 20px;
+}
+
+.target-card h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.target-card p {
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+.target-card button {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#cardhtml{
+    background-color: lightgreen;
+}
+#cardcss{
+    background-color: lightblue;
+}
+#cardjs{
+    background-color: lightyellow;
+}
