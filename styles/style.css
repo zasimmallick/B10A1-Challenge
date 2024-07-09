@@ -219,3 +219,30 @@ a {
     cursor: pointer;
 }
 
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: lightgray;
+    margin-top: 70px;
+    border-top: 1px solid whitesmoke;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+.footer .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.footer .social-icons a img {
+    width: 24px;
+    height: 24px;
+    
+}
+
+
