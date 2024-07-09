@@ -172,3 +172,50 @@ a {
 .next{
     background-color: lightblue;
 }
+
+
+.support {
+    text-align: center;
+    padding: 50px 20px;
+    color: white;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-image: url(assets/handshake.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 313px;
+}
+
+.support h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.support p {
+    font-size: 1em;
+    margin-bottom: 40px;
+}
+
+.support form {
+    display: inline-block;
+    max-width: 500px;
+    width: 100%;
+}
+
+.support input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.support button {
+    padding: 10px 20px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
