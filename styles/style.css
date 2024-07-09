@@ -83,3 +83,21 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
+
+
+.inspiration {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.inspiration h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.inspiration p {
+    font-size: 1em;
+    margin-bottom: 40px;
+}
